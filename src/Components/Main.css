@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background: whitesmoke;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid blueviolet; */
+}
